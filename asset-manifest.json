@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/friendship/static/css/main.39c09b30.chunk.css",
+    "main.js": "/friendship/static/js/main.35af85af.chunk.js",
+    "main.js.map": "/friendship/static/js/main.35af85af.chunk.js.map",
+    "runtime-main.js": "/friendship/static/js/runtime-main.c7241158.js",
+    "runtime-main.js.map": "/friendship/static/js/runtime-main.c7241158.js.map",
+    "static/js/2.4ef3896a.chunk.js": "/friendship/static/js/2.4ef3896a.chunk.js",
+    "static/js/2.4ef3896a.chunk.js.map": "/friendship/static/js/2.4ef3896a.chunk.js.map",
+    "index.html": "/friendship/index.html",
+    "precache-manifest.70d30662f3c721f1dfc2636d7266ffc3.js": "/friendship/precache-manifest.70d30662f3c721f1dfc2636d7266ffc3.js",
+    "service-worker.js": "/friendship/service-worker.js",
+    "static/css/main.39c09b30.chunk.css.map": "/friendship/static/css/main.39c09b30.chunk.css.map",
+    "static/js/2.4ef3896a.chunk.js.LICENSE.txt": "/friendship/static/js/2.4ef3896a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/friendship/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7241158.js",
+    "static/js/2.4ef3896a.chunk.js",
+    "static/css/main.39c09b30.chunk.css",
+    "static/js/main.35af85af.chunk.js"
+  ]
+}
