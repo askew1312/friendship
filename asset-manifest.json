@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/friendship/static/css/main.0c0ac976.chunk.css",
-    "main.js": "/friendship/static/js/main.e873aa16.chunk.js",
-    "main.js.map": "/friendship/static/js/main.e873aa16.chunk.js.map",
+    "main.js": "/friendship/static/js/main.3b71213b.chunk.js",
+    "main.js.map": "/friendship/static/js/main.3b71213b.chunk.js.map",
     "runtime-main.js": "/friendship/static/js/runtime-main.c7241158.js",
     "runtime-main.js.map": "/friendship/static/js/runtime-main.c7241158.js.map",
     "static/js/2.1c5b23fc.chunk.js": "/friendship/static/js/2.1c5b23fc.chunk.js",
     "static/js/2.1c5b23fc.chunk.js.map": "/friendship/static/js/2.1c5b23fc.chunk.js.map",
     "index.html": "/friendship/index.html",
-    "precache-manifest.55c92c46348c45797525c08c9d4d8bdf.js": "/friendship/precache-manifest.55c92c46348c45797525c08c9d4d8bdf.js",
+    "precache-manifest.b9c60ca3a266a05f830e77d8f027fa1f.js": "/friendship/precache-manifest.b9c60ca3a266a05f830e77d8f027fa1f.js",
     "service-worker.js": "/friendship/service-worker.js",
     "static/css/main.0c0ac976.chunk.css.map": "/friendship/static/css/main.0c0ac976.chunk.css.map",
     "static/js/2.1c5b23fc.chunk.js.LICENSE.txt": "/friendship/static/js/2.1c5b23fc.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c7241158.js",
     "static/js/2.1c5b23fc.chunk.js",
     "static/css/main.0c0ac976.chunk.css",
-    "static/js/main.e873aa16.chunk.js"
+    "static/js/main.3b71213b.chunk.js"
   ]
 }
